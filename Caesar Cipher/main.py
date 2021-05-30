@@ -18,7 +18,6 @@ def caesar(start_text, shift_amount, cipher_direction):
 from art import logo
 print(logo)
 
-
 should_end = False
 while not should_end:
 
